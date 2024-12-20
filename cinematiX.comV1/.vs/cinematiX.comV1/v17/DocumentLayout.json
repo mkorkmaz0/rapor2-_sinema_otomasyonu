@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\frmfilmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\frmfilmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\frmyonetmenkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\frmyonetmenkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\ylistearaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\ylistearaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\frmoyuncukayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\frmoyuncukayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|c:\\users\\melik\\desktop\\staj\\#staj projeleri#\\cinematix.comv1\\cinematix.comv1\\frmoyuncukayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\frmoyuncukayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\olistearaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\olistearaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\frmfilmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\frmfilmkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\salonlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\salonlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\salonlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\salonlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmSalonKayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematiX.comV1\\FrmSalonKayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\frmyonetmenlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\frmyonetmenlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\frmsalonkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\frmsalonkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\formacilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\formacilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\formanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\frmoyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\frmoyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\frmyonetmenkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\frmyonetmenkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\frmyonetmenlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\frmyonetmenlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematix.comv1\\oyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematix.comv1\\oyunculistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FormAcilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AA7A6D-B245-4B62-9984-D4EDEAE0935C}|cinematiX.comV1\\cinematiX.comV1.csproj|solutionrelative:cinematiX.comV1\\FormAcilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "oListeAraci.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\oListeAraci.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\oListeAraci.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\oListeAraci.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\oListeAraci.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:27:20.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "yListeAraci.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\yListeAraci.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\yListeAraci.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\yListeAraci.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\yListeAraci.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:25:51.389Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmOyuncuKayit.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmOyuncuKayit.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FrmOyuncuKayit.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmOyuncuKayit.cs",
+              "RelativeToolTip": "cinematiX.comV1\\FrmOyuncuKayit.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADwvx0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:29:03.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmYonetmenKayit.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmYonetmenKayit.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FrmYonetmenKayit.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmYonetmenKayit.cs",
+              "RelativeToolTip": "cinematiX.comV1\\FrmYonetmenKayit.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAqwIwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:27:52.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmFilmKayit.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmFilmKayit.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FrmFilmKayit.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmFilmKayit.cs",
+              "RelativeToolTip": "cinematiX.comV1\\FrmFilmKayit.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAuwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:56:21.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAnaform.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FormAnaform.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FormAnaform.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FormAnaform.cs",
+              "RelativeToolTip": "cinematiX.comV1\\FormAnaform.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAMwEIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:44:50.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmFilmKayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmFilmKayit.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FrmFilmKayit.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmFilmKayit.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\FrmFilmKayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:37:43.049Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalonListesi.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\SalonListesi.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\SalonListesi.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\SalonListesi.cs",
+              "RelativeToolTip": "cinematiX.comV1\\SalonListesi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:00:47.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalonListesi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\SalonListesi.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\SalonListesi.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\SalonListesi.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\SalonListesi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:22:03.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmSalonKayit.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmSalonKayit.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FrmSalonKayit.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmSalonKayit.cs",
+              "RelativeToolTip": "cinematiX.comV1\\FrmSalonKayit.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwEIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:14:28.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmYonetmenListesi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmYonetmenListesi.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FrmYonetmenListesi.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmYonetmenListesi.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\FrmYonetmenListesi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:22:25.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmSalonKayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmSalonKayit.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FrmSalonKayit.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmSalonKayit.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\FrmSalonKayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:54:26.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormAcilis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FormAcilis.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FormAcilis.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FormAcilis.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\FormAcilis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:54:31.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormAnaform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FormAnaform.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FormAnaform.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FormAnaform.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\FormAnaform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:01:17.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmOyuncuListesi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmOyuncuListesi.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FrmOyuncuListesi.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmOyuncuListesi.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\FrmOyuncuListesi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:54:25.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmYonetmenKayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmYonetmenKayit.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FrmYonetmenKayit.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmYonetmenKayit.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\FrmYonetmenKayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:54:27.945Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmYonetmenListesi.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmYonetmenListesi.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FrmYonetmenListesi.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmYonetmenListesi.cs",
+              "RelativeToolTip": "cinematiX.comV1\\FrmYonetmenListesi.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwCkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:22:43.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Oyunculistesi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\Oyunculistesi.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\Oyunculistesi.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\Oyunculistesi.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\Oyunculistesi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:54:29.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormAcilis.cs",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FormAcilis.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FormAcilis.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FormAcilis.cs",
+              "RelativeToolTip": "cinematiX.comV1\\FormAcilis.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:04:47.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmOyuncuKayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmOyuncuKayit.cs",
+              "RelativeDocumentMoniker": "cinematiX.comV1\\FrmOyuncuKayit.cs",
+              "ToolTip": "C:\\Users\\melik\\Desktop\\staj\\#staj projeleri#\\cinematiX.comV1\\cinematiX.comV1\\FrmOyuncuKayit.cs [Design]",
+              "RelativeToolTip": "cinematiX.comV1\\FrmOyuncuKayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:54:05.213Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
